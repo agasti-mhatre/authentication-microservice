@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: Authentication
+
+  data:
+    mongodb:
+      uri: mongodb+srv://agasti_mhatre:I9YrxG7NSt2Mkbue@userdata.nexjn.mongodb.net/?retryWrites=true&w=majority&appName=UserData
+      database: UserData
